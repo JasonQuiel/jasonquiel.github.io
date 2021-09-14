@@ -35,7 +35,9 @@ plugins:
   - jekyll-feed
 
 header_page:
-- about.md
+- Home.md
+- About.md
+- Projects.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
