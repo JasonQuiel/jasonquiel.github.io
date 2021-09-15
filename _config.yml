@@ -33,7 +33,7 @@ github_username:  jekyll
 theme: minima
 #attempt to change skin
 minima:
-  - skin: solarized
+  - skin: dark
 plugins:
   - jekyll-feed
 
