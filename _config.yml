@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Testing
+title-logo: /images/title-logo.png
 email: jason.quiel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -32,7 +33,7 @@ linkedin_username: jason-quiel-a4466b20a
 github_username:  JasonQuiel
 
 #adding Logo which isn't supported by default by theme. 50px seems to be the best
-title-logo: /images/title-logo.png
+
 # Build settings
 theme: minima
 
