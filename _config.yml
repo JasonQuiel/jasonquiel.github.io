@@ -22,7 +22,7 @@ title: My Profile
 title-logo: /images/title-logo.png
 email: jason.quiel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Jason Quiel currenty a student studying Information Technology.
+ Hello I'm Jason Quiel and currently I'm a student studying Information Technology.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

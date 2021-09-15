@@ -4,3 +4,5 @@
 
 layout: default
 ---
+
+![logo](/images/simplelogo.png)
