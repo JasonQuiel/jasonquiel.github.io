@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Testing
-title-logo: /images/title-logo.png
+title: Testing /images/title-logo.png
+#title-logo: 
 email: jason.quiel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
