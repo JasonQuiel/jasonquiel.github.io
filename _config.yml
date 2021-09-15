@@ -32,8 +32,7 @@ linkedin_username: jason-quiel-a4466b20a
 github_username:  JasonQuiel
 
 #adding Logo which isn't supported by default by theme. 50px seems to be the best
-title-logo: /images/simplelogosmall.png
-
+title-logo: /images/title-logo.png
 # Build settings
 theme: minima
 
