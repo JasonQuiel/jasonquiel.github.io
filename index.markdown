@@ -1,8 +1,18 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
 
-![logo](/images/simplelogo.png)
+![Tron](images\computer-monitor-animated.gif)
+
+<h2>Here is a list of my current skills!</h2>
+Technical Skills
+<ul>
+<li>Computer Hardware and Software Knowledge</li>
+<li>JavaScript Development Skills</li>
+<li>Basic Database Structure and Design</li>
+</ul>
+Soft Skills
+<ul>
+<li>Customer Service</li>
+<li>Communication Skills</li>
+<li>Management Skills</li>
