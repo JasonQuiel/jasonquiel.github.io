@@ -8,7 +8,7 @@ layout: default
 Technical Skills
 <ul>
 <li>Computer Hardware and Software Knowledge</li>
-<li>JavaScript Development Skills</li>
+<li>JavaScript Skills</li>
 <li>Basic Database Structure and Design</li>
 </ul>
 Soft Skills
