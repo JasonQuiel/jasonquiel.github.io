@@ -2,7 +2,10 @@
 layout: default
 ---
 
-![Tron](images\computer-monitor-animated.gif)
+![Tron](images\computer-monitor-animated.gif "futuristic keyboard")
+
+
+
 
 <h2>Here is a list of my current skills!</h2>
 Technical Skills
