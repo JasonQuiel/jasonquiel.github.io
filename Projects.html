@@ -9,14 +9,16 @@ title: Projects
 <br>
 
 <style>
- 
+
 .grid {
   display: grid;
-  grid-template-columns: 200px 200px 200px;
-  grid-gap: 75px;
+  grid-template-columns: 100px 100px 100px;
+  grid-gap: 50px;
   text-align: center;
   font-size: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
+
 
 .fcc-btn {
   background-color: #5C192A;
@@ -25,14 +27,17 @@ title: Projects
   text-decoration: none;
   box-shadow: 10px 5px 5px #000;
   cursor: pointer;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
 .fcc-btn:hover {
   background-color: #CEC294;
 }
 
-</style>
+  
 
+</style>
+<div class="wrapper">
 <div class="grid">
     <div class="fcc-btn"><a href="https://www.nisaorganisation.com/">NISA</a></div>
     <div class="fcc-btn"><a href="https://jasonquiel.github.io/new.html">New</a></div>
@@ -42,5 +47,5 @@ title: Projects
 
 
   </div>
-  
-  
+</div>
+
